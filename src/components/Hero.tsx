@@ -29,7 +29,7 @@ const Hero = () => {
         </h1>
         
         <p className="text-xl md:text-2xl text-emerald-100 mb-8 leading-relaxed max-w-3xl mx-auto font-light">
-          I'm <span className="text-emerald-200 font-medium">Nivedhitha Prasad</span>, a transdisciplinary engineer 
+          I'm <span className="text-emerald-200 font-medium">Kylederic</span>, a transdisciplinary engineer 
           creating systems that remember, regenerate, and resonate.
         </p>
 
